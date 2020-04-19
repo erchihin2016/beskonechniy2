@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">beskonechniy</string>
+    <string name="ссылка">http://myfile.org/</string>
+    <string name="next">ВПЕРЕД</string>
+    <string name="ифсл">НАЗАД</string>
+    <string name="textview">TextView</string>
+    <string name="заг">ПРОСМОТР ФОТО</string>
+</resources>
